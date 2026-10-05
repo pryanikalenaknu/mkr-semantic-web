@@ -1,0 +1,16 @@
+PREFIX wd:       <http://www.wikidata.org/entity/>
+PREFIX wdt:      <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd:       <http://www.bigdata.com/rdf#>
+
+SELECT DISTINCT ?item ?itemLabel ?region ?regionLabel ?population
+WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q1248784 ;
+        wdt:P17 wd:Q183 ;
+        wdt:P131 ?region .
+  ?region wdt:P1082 ?population .
+  FILTER (?region != wd:Q183)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en" . }
+}
+ORDER BY DESC(?population) ?item
+LIMIT 10

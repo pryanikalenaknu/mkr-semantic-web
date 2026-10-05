@@ -1,0 +1,23 @@
+flight_id,airline,from_city,from_country,to_city,to_country,dep_date,duration_min,price_eur,note
+ fl-2901 ,AeroVista ,BUDAPEST,Hungary,Vilnius,Lithuania,05.07.2026,128,241.99,
+FL-2901,AeroVista,Budapest,Hungary,Vilnius,Lithuania,05.07.2026,128,241.99,
+FL-4279,Zephyr Lines,Rome,Italy,Warsaw,Poland,12.08.2026,229,243.99,
+FL-1027,AeroVista,Oslo,Norway,Krakow,Poland,12.06.2026,201,55.99,
+FL-4100,TransCarpa,Paris,France,Lviv,Ukraine,2026-05-25,228,243.00,
+FL-1642,Falcon Jet,Milan,Italy,Oslo,Norway,2026-07-03,233,188.99,
+FL-7308,Orbit Airways,Tallinn,Estonia,Berlin,Germany,2026-03-23,206,244.00,
+ fl-8270 ,Blue Meridian ,WARSAW,Poland,Milan,Italy,18.04.2026,199,81.99,
+FL-6447,Orbit Airways,Krakow,Poland,Odesa,Ukraine,10.08.2026,163,213.99,
+FL-4143,Blue Meridian,Lyon,France,Budapest,Hungary,2026-05-28,77,69.50,delay=25;by=FlightLog
+FL-6406,SkyNord,Riga,Latvia,Madrid,Spain,26.08.2026,103,105.00,
+FL-6521,Orbit Airways,Rome,Italy,Odesa,Ukraine,2026-03-02,312,97.00,
+FL-3043,AeroVista,Munich,Germany,Vilnius,Lithuania,2026-07-23,245,58.50,
+FL-8270,Blue Meridian,Warsaw,Poland,Milan,Italy,18.04.2026,199,81.99,
+FL-2369,AeroVista,Rome,Italy,Milan,Italy,2026-08-20,317,178.00,
+FL-5355,Lumen Air,Milan,Italy,Krakow,Poland,2026-04-07,264,183.99,
+FL-7240,AeroVista,Milan,Italy,Kyiv,Ukraine,01.07.2026,262,139.00,
+FL-8524,Falcon Jet,Budapest,Hungary,Munich,Germany,2026-05-10,116,259.50,delay=15;by=FlightLog
+FL-3880,TransCarpa,Lviv,Ukraine,Munich,Germany,2026-06-20,296,210.99,
+FL-9638,SkyNord,Riga,Latvia,Lisbon,Portugal,21.06.2026,141,153.99,delay=25;by=PassengerReport
+FL-6730,TransCarpa,Krakow,Poland,Rome,Italy,2026-03-12,212,157.99,
+FL-4614,SkyNord,Berlin,Germany,Odesa,Ukraine,09.08.2026,201,128.99,

@@ -1,0 +1,11 @@
+item,itemLabel,region,regionLabel,population
+http://www.wikidata.org/entity/Q372317,Munich-Riem Airport,http://www.wikidata.org/entity/Q1726,Munich,1505036
+http://www.wikidata.org/entity/Q157741,Cologne Bonn Airport,http://www.wikidata.org/entity/Q365,Cologne,1025523
+http://www.wikidata.org/entity/Q1431855,Leipzig-Mockau Airport,http://www.wikidata.org/entity/Q2079,Leipzig,615932
+http://www.wikidata.org/entity/Q106508778,Airport Dresden-Heller,http://www.wikidata.org/entity/Q1731,Dresden,562764
+http://www.wikidata.org/entity/Q265994,Nuremberg Airport,http://www.wikidata.org/entity/Q2090,Nuremberg,531159
+http://www.wikidata.org/entity/Q9686,Berlin-Tempelhof Airport,http://www.wikidata.org/entity/Q158106,Tempelhof-Schöneberg,358835
+http://www.wikidata.org/entity/Q9686,Berlin-Tempelhof Airport,http://www.wikidata.org/entity/Q158106,Tempelhof-Schöneberg,350984
+http://www.wikidata.org/entity/Q9686,Berlin-Tempelhof Airport,http://www.wikidata.org/entity/Q4071168,Neukölln,331623
+http://www.wikidata.org/entity/Q9686,Berlin-Tempelhof Airport,http://www.wikidata.org/entity/Q4071168,Neukölln,329917
+http://www.wikidata.org/entity/Q27706,Hamburg Airport,http://www.wikidata.org/entity/Q1627,Hamburg-Nord,302242
